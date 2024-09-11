@@ -12,7 +12,7 @@
 <br>
 
 
-<h3 align="left">💻 Languages</h3>
+<h3 align="left">💻 Languages:</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 ###
 
 <br>
-<h3 align="left">🛠 Frameworks and Libraries</h3>
+<h3 align="left">🛠 Frameworks and Libraries:</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 <br>
-<h3 align="left">How to reach me</h3>
+<h3 align="left">📬 How to reach me:</h3>
 
 ###
 
