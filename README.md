@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Strolling gracefully through the world of software and artificial intelligence!</h3>
+<h3 align="center">Strolling gracefully through the world of software and artificial intelligence.</h3>
 
 ###
 <br>
