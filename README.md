@@ -8,7 +8,7 @@
 
 ###
 <br>
-<p align="left">- 🔭 I’m working as a Data scientist<br>- 📚 I'm currently learning Kubernetes</p>
+<p align="left">🔭 I’m working as a Data scientist<br>📚 I'm currently learning Kubernetes<br> ♘ I'm learning some Chess!</p>
 <br>
 
 
