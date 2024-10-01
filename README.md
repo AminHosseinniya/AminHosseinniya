@@ -54,6 +54,11 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   </a>
+  <img width="12" />
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="apache logo" />
+  </a>
+  <img width="12" />
 </div>
 
 
