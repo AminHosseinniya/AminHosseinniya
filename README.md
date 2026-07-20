@@ -1,3 +1,6 @@
+[![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/AminHosseinniya/AminHosseinniya/blob/main/Amin_Hosseinniya_CV.pdf)
+
+
 <br clear="both">
 
 <h1 align="center">Hi there 👋, It's Amin!</h1>
