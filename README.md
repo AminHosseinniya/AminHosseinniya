@@ -1,6 +1,3 @@
-[![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/AminHosseinniya/AminHosseinniya/blob/main/Amin_Hosseinniya_CV.pdf)
-
-
 <br clear="both">
 
 <h1 align="center">Hi there 👋, It's Amin!</h1>
@@ -9,9 +6,28 @@
 
 <h3 align="center">Strolling gracefully through the world of software and artificial intelligence.</h3>
 
+
+
+### 📄 My CV
+
+[![Download CV](https://img.shields.io/badge/Download-CV%20PDF-informational?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/AminHosseinniya/AminHosseinniya/blob/main/Amin_Hosseinniya_CV.pdf)
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/AminHosseinniya/AminHosseinniya/main/cv-page1.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/AminHosseinniya/AminHosseinniya/main/cv-page2.png" width="100%"/></td>
+</tr>
+</table>
+
+
+
+
+
+
+
 ###
 <br>
-<p align="left">🔭 I’m working as a Data scientist<br>📚 I'm currently learning Kubernetes<br> ♘  I'm learning some Chess!</p>
+<p align="left">🔭 I’m working as a Data scientist<br> ♘  I'm learning some Chess!</p>
 <br>
 
 
@@ -101,16 +117,7 @@
 </div>
 
 
-###
-<br>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminHosseinniya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AminHosseinniya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <p align="center"><sub>Powered by: https://profile-readme-generator.com/</sub></p>
 
